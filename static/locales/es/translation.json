@@ -87,6 +87,7 @@
 			"mobilehost": "Host móvil",
 			"vad_enabled": "VAD activado",
 			"hardware_acceleration": "Aceleración de Hardware",
+			"hardware_acceleration_warning": "Esto puede causar una pérdida de rendimiento en algunos sistemas.",
 			"vad_enabled_warning": "No serás capaz de ver quién habla si se desactiva.",
 			"echocancellation": "Cancelación de Eco",
 			"noiseSuppression": "Supresión de Ruido",
